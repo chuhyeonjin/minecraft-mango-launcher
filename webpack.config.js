@@ -41,4 +41,5 @@ module.exports = {
       template: './public/index.html',
     }),
   ],
+  target: 'electron-renderer',
 };
