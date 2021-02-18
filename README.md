@@ -1,1 +1,3 @@
-# minecraft-mango-launcher
+# 망고 런처
+
+내가 필요해서 만드는 런처
